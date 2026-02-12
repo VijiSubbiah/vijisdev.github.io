@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // Calculate dynamic years for experience
 function calculateYears() {
     const currentYear = new Date().getFullYear();
-    const techYears = currentYear - 2010;
+    const techYears = currentYear - 2010-4;
     const pmYears = currentYear - 2018;
 
     const techEl = document.getElementById('tech-years');
