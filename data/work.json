@@ -102,404 +102,370 @@
             "Migrated data from install base to cloud via connectors",
             "User customisable KPI dashboards for insights"
           ]
-        } 
+        }
       ]
+    },
+    {
+      "id": "rsa",
+      "type": "professional",
+      "rank": 2,
+      "name": "DELL EMC RSA Security",
+      "companyUrl": "https://www.rsa.com",
+      "companyDescription": "Leading the fight against payments fraud. Powered by cutting-edge data science and a suite of market-leading, anti-fraud products",
+      "tags": [
+        "APIs",
+        "Risk engine",
+        "EMVCO 3DS 2.0",
+        "Azure cloud",
+        "enterprise"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/company-logos/DELL-RSA-Logo.jpg"
+        },
+        "colors": {
+          "primary": "#C74634"
+        }
       },
-        
-        {
-          "id": "rsa",
-          "type": "professional",
-          "rank": 2,
-          "name": "DELL EMC RSA Security",
-          "companyUrl": "https://www.rsa.com",
-          "companyDescription": "Leading the fight against payments fraud. Powered by cutting-edge data science and a suite of market-leading, anti-fraud products",
-          "tags": [
-            "APIs",
-            "ML/AI",
-            "data pipelines",
-            "CRM",
-            "enterprise"
+      "role": {
+        "title": "Product Advisor",
+        "level": "Mid"
+      },
+      "overview": {
+        "description": "Optimizing the risk score for fraud detection, case management,EMV 3DS 2.0 payments protocol. Focused on API-driven data management, ML-powered automation, and operational efficiency.",
+        "skillset": {
+          "technical": [
+            "Risk Engine Optimization",
+            "Data Science",
+            "Operations Automation",
+            "Policy Framework",
+            "Data Analytics"
           ],
-          "branding": {
-            "logos": {
-              "white": "images/company-logos/DELL-RSA-Logo.jpg"
-            },
-            "colors": {
-              "primary": "#C74634"
-            }
-          },
-          "role": {
-            "title": "Product Advisor",
-            "level": "Mid"
-          },
-          "overview": {
-            "description": "Optimizing the risk score for fraud detection, case management,EMV 3DS 2.0 payments protocol. Focused on API-driven data management, ML-powered automation, and operational efficiency.",
-            "skillset": {
-              "technical": [
-                "Risk Engine Optimization",
-                "Data Science",
-                "Operations Automation",
-                "Policy Framework",
-                "Data Analytics"
-              ],
-              "functional": [
-                "Product Strategy",
-                "Resource Optimization",
-                "Performance Improvements",
-                "Customer Success",
-                "Cost Optimization"
-              ]
-            }
-          },
-          "achievements": [
+          "functional": [
+            "Product Strategy",
+            "Resource Optimization",
+            "Performance Improvements",
+            "Customer Success",
+            "Cost Optimization"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Fraud Manager-Cloud application for fraud detection and prevention",
+          "description": "Led initiative to optimize risk scoring for fraud detection, improving accuracy and reducing false positives.",
+          "links": [
             {
-              "title": "Alternate Key & External System Linking",
-              "description": "Led initiative to enable external system ID linking for enterprise data imports — eliminating dependency on Oracle primary keys",
-              "links": [
-                {
-                  "label": "22C Release Notes",
-                  "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/engagement/releases/22C/22C-sf-automation-wn.htm#T36059"
-                },
-                {
-                  "label": "21D Release Notes",
-                  "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/engagement/releases/21D/21D-sf-automation-wn.htm"
-                }
-              ],
-              "impact": [
-                "Enabled PUID and Original System Reference linking — prevented churn for enterprise customers",
-                "Reduced integration complexity for 1:M relationships and Dynamic Choice Lists",
-                "Improved data import success rates for enterprise customers with complex system landscapes"
-              ]
-            },
-            {
-              "title": "ML-Powered Import Prediction",
-              "description": "Shipped ML-based prediction system for import job scheduling and resource allocation",
-              "links": [
-                {
-                  "label": "22A Release Notes",
-                  "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/engagement/releases/22A/22A-sf-automation-wn.htm"
-                }
-              ],
-              "impact": [
-                "Built predictive model for import job completion times",
-                "Enabled proactive resource allocation reducing queue wait times",
-                "Reduced cost per import cycle through ML-optimized scheduling"
-              ]
-            },
-            {
-              "title": "Import/Export Ops Optimization",
-              "description": "Delivered operational efficiency improvements across the data import/export framework",
-              "links": [
-                {
-                  "label": "22B Release Notes",
-                  "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/engagement/releases/22B/22B-sf-automation-wn.htm"
-                },
-                {
-                  "label": "22C Release Notes",
-                  "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/engagement/releases/22C/22C-sf-automation-wn.htm"
-                }
-              ],
-              "impact": [
-                "Implemented dynamic queue management — reduced support escalations",
-                "Added reusable advanced options — decreased import/export setup time",
-                "Delivered measurable annual savings through operational efficiency"
-              ]
+              "label": "Product Page",
+              "url": "https://www.outseer.com/products/outseer-fraud-manager"
             }
+          ],
+          "impact": [
+            "Improved fraud detection accuracy by 15% through risk engine optimization",
+            "Reduced false positives by 20% with enhanced data science models",
+            "Enabled 2FA/MFA as per GDPR Regulations for improved security and compliance"
           ]
         },
         {
-          "id": "impelsys",
-          "type": "professional",
-          "rank": 3,
-          "name": "Impelsys",
-          "companyUrl": "https://www.impelsys.com",
-          "companyDescription": "Global e learning commerce leader in healthcare and life sciences",
-          "tags": [
-            "AWS",
-            "ML/AI",
-            "analytics",
-            "0-to-1"
+          "title": "3DS 2.0 EMV Payments Protocol Implementation",
+          "description": "Led implementation of EMV 3DS 2.0 protocol for secure online payments, enhancing fraud prevention and customer experience.",
+          "links": [
+            {
+              "label": "Product Page",
+              "url": "https://www.outseer.com/products/outseer-3d-secure"
+            }
           ],
-          "branding": {
-            "logos": {
-              "white": "images/company-logos/impelsys-logo.jpg"
-            },
-            "colors": {
-              "primary": "#eb7200"
-            }
-          },
-          "role": {
-            "title": "Senior Business Analyst",
-            "level": "Mid"
-          },
-          "overview": {
-            "description": "Built enterprise analytics platform products in healthcare/life sciences — from 0-to-1 AWS resource management to rapid application deployment tools.",
-            "skillset": {
-              "technical": [
-                "AWS Cloud",
-                "Analytics Platform",
-                "ML/AI Compute",
-                "Healthcare Analytics",
-                "Application Development"
-              ],
-              "functional": [
-                "Product Strategy",
-                "Cost Optimization",
-                "Platform Development",
-                "Healthcare Domain",
-                "Resource Management"
-              ]
-            }
-          },
-          "achievements": [
-            {
-              "title": "REVO™ Workbench Management Console",
-              "description": "First 0-to-1 product — intelligent AWS resource provisioning for data science teams as part of the REVO Analytics platform",
-              "videoUrl": "https://www.youtube.com/watch?v=lcSU_xVDR30",
-              "links": [
-                {
-                  "label": "Press Release",
-                  "url": "https://www.prnewswire.com/news-releases/zs-introduces-aws-powered-end-to-end-analytics-platform-for-life-sciences-industry-300453648.html"
-                }
-              ],
-              "impact": [
-                "Reduced ML/AI compute resource provisioning time by ~80%",
-                "Cut customer infrastructure costs by ~30%",
-                "Self-service console for project creation, team management, and resource allocation"
-              ]
-            },
-            {
-              "title": "Javelin Application Catalyst",
-              "description": "Prebuilt application templates integrating web frameworks and Iron Python for rapid analytics deployment",
-              "impact": [
-                "Generated new revenue stream within first year of launch",
-                "Reduced deployment costs by ~60%",
-                "Accelerated custom analytics application development",
-                "Stabilized platform and transitioned to maintenance mode"
-              ]
-            }
-          ]
-        
-      },
-        {
-          "id": "LG",
-          "type": "professional",
-          "rank": 4,
-          "name": "LG Electronics",
-          "companyUrl": "https://www.lg.com",
-          "companyDescription": "Leading provider of Global consumer electronics, home appliances, and mobile communications",
-          "tags": [
-            "device integration",
-            "EHR",
-            "compliance",
-            "IoT"
-          ],
-          "branding": {
-            "logos": {
-              "white": "images/company-logos/LG-logo.jpg"
-            },
-            "colors": {
-              "primary": "#000000"
-            }
-          },
-          "role": {
-            "title": "Research Analyst",
-            "level": "Junior"
-          },
-          "overview": {
-            "description": "Junior Embedded research Analyst for Broad Band TV application on localisation and application development.",
-            "skillset": {
-              "technical": [
-                "Memory Leakage",
-                "Data Exchange",
-                "Compliance",
-                "Remote Access",
-                "Device Integration"
-              ],
-              "functional": [
-                "Product Strategy",
-                "Harware Testing",
-                "System Integration",
-                "Quality assurance",
-                "Remote Operations"
-              ]
-            }
-          },
-          "achievements": [
-            {
-              "title": "XprezzNet™ Connectivity Platform",
-              "description": "Product owner for high-resolution vital signs connectivity solution integrating with major EHR systems",
-              "links": [
-                {
-                  "label": "Product Page",
-                  "url": "https://spacelabshealthcare.com/products/patient-monitoring-connectivity/networking-and-integration/xprezznet/"
-                }
-              ],
-              "impact": [
-                "Multiple releases certified to Epic and Cerner standards",
-                "Prepped platform for cloud deployment and SaaS integration (SafeNSound)",
-                "Enabled third-party device integration via Flexport® interfaces (ventilators, hemodynamic monitors)"
-              ]
-            },
-            {
-              "title": "Xhibit Central Station Updates",
-              "description": "Led critical system updates and hardware refresh during COVID-19 microchip crisis",
-              "links": [
-                {
-                  "label": "Product Page",
-                  "url": "https://spacelabshealthcare.com/products/patient-monitoring-connectivity/surveillance/xhibit-xc48/"
-                }
-              ],
-              "impact": [
-                "Delivered alarm audio loss correction across deployed hospital systems",
-                "Managed hardware refresh strategy during global chip shortage",
-                "Evaluated secure remote maintenance solutions for field support"
-              ]
-            }
+          "impact": [
+            "Enabled compliance with EMV 3DS 2.0 standards for secure online transactions",
+            "Reduced payment fraud by 25% through enhanced authentication",
+            "Improved customer experience with frictionless authentication options"
           ]
         },
       
-        {
-          "id": "cts",
-          "type": "professional",
-          "rank": 5,
-          "name": "Cognizant Technology Solutions",
-          "companyUrl": "https://www.cognizant.com",
-          "companyDescription": "Global leader in IT services and digital solutions",
-          "tags": [
-            "cloud",
-            "BPaaS",
-            "ERP integration",
-            "automation"
+    
+         {
+          "title": "CRE Risk Engine Optimization",
+          "description": "Delivered operational efficiency, optimzation of risk scoring by improving rules and policies for fraud detection and prevention.",
+          "links": [
+            {
+              "label": "Product Page",
+              "url": "https://www.outseer.com/technology/outseer-risk-engine"
+            }
+           
           ],
-          "branding": {
-            "logos": {
-              "white": "images/company-logos/cts-logo.jpg"
-            },
-            "colors": {
-              "primary": "#0080c5"
-            }
-          },
-          "role": {
-            "title": "Programmer Analyst",
-            "level": "Fresher"
-          },
-          "overview": {
-            "description": "Newbie to IT industry.Worked are a support analyst for US based retail stores,managing the seasonal sales spike and ensuring smooth operations",
-            "skillset": {
-              "technical": [
-                "UI Development",
-                "P2P Automation",
-                "Enterprise Systems",
-                "Documentation and Training",
-                "System Architecture"
-              ],
-              "functional": [
-                "Development",
-                "Customer Support",
-                "Process Optimization",
-                "Cross-Functional Collaboration",
-                "Operational Efficiency",
-                "Technical Training"
-              ]
-            }
-          },
-          "achievements": [
-            {
-              "title": "TCS TAP™ Accounts Payable Platform",
-              "description": "Pre-sales and implementation PM for cloud-based P2P automation — led 4-member team serving Fortune 500 customers",
-              "links": [
-                {
-                  "label": "Forrester Recognition",
-                  "url": "https://www.prnewswire.com/news-releases/tata-consultancy-services-tap-platform-recognized-as-a-strong-performer-in-eprocurement-300473807.html"
-                },
-                {
-                  "label": "Platform Overview",
-                  "url": "https://www.tcs.com/content/dam/global-tcs/en/pdfs/insights/blogs/TAP-Procure-to-Pay-1017-1.pdf"
-                }
-              ],
-              "impact": [
-                "Drove product revenue growth via cloud SaaS offering",
-                "Reduced deployment timeline by 4 weeks through refined CX processes",
-                "Cut implementation costs through process optimization"
-              ]
-            },
-            {
-              "title": "TCS MasterCraft™ Documentation Platform",
-              "description": "Built open-source CMS for standardized SaaS product documentation — integrated with MasterCraft™ suite",
-              "links": [
-                {
-                  "label": "MasterCraft Product",
-                  "url": "https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft"
-                }
-              ],
-              "impact": [
-                "Reduced product support costs by ~15%",
-                "Enabled self-service documentation publishing for global teams",
-                "Foundation for tech writing expertise applied throughout career"
-              ]
-            }
-          ]
-        
-      },
-        {
-          "id": "Middlesex University",
-          "type": "personal",
-          "rank": 6,
-          "name": "Middlesex University",
-          "companyUrl": "https://www.mdx.com",
-          "companyDescription": "A leading UK university known for its research and innovation across various disciplines,located in northwest of London",
-          "tags": [
-            "internal tools",
-            "AI chatbot",
-            "0-to-1",
-            "MBA"
-          ],
-          "branding": {
-            "logos": {
-              "white": "images/company-logos/mdx-logo.jpg"
-            },
-            "colors": {
-              "primary": "#0070F2"
-            }
-          },
-          "role": {
-            "title": "Post Graduate assistant",
-            "level": "Intern"
-          },
-          "overview": {
-            "description": "Big Data to Optimize product strategy in Electrnoic Industry.",
-            "skillset": {
-              "technical": [
-                "Research,market study,industry analysis,experts survey,conceptualization,report writing"
-              ],
-              "functional": [
-                "Framework Development",
-                "User Adoption",
-                "Documentation"
-              ]
-            }
-          },
-          "achievements": [
-            {
-              "title": "Research Paper Publication",
-              "description": "Conceptualized, built, and launched a new support portal product streamlining support requests from 5000+ users",
-              "impact": [
-                "Achieved 80% global user adoption at launch",
-                "Reduced response time by 4x through 2 major portal changes",
-                "Defined 9 KPIs to monitor customer experience and product performance"
-              ]
-            },
-            {
-              "title": "SAP Conversational AI Chatbot PoC",
-              "description": "Built a proof-of-concept chatbot to respond to user FAQs using SAP Conversational AI",
-              "impact": [
-                "Aimed to boost developer productivity by 10%",
-                "Created recorded demos and user-facing documentation for adoption"
-              ]
-            }
+          "impact": [
+            "Rules and policies based on voice of Customers and data insights to optimize risk scoring",
+            "Enabled customers to create their own rules and policies suiting banking /non-banking use cases",
+            "Delivered measurable annual savings through operational efficiency"
           ]
         }
-        
-  ]   
+     
+  ]
+},
+    
+    {
+      "id": "impelsys",
+      "type": "professional",
+      "rank": 3,
+      "name": "Impelsys",
+      "companyUrl": "https://www.impelsys.com",
+      "companyDescription": "Global e learning commerce leader in healthcare and life sciences, focusing ECC & CPR.",
+      "tags": [
+        "AWS",
+        "e-commerce",
+        "payments",
+        "0-to-1",
+        "Business analysis",
+        "Healthcare",
+        "Agile development"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/company-logos/impelsys-logo.jpg"
+        },
+        "colors": {
+          "primary": "#eb7200"
+        }
+      },
+      "role": {
+        "title": "Senior Business Analyst",
+        "level": "Mid"
+      },
+      "overview": {
+        "description": "Built enterprise ecommerce platform for healthcare/life sciences — from 0-to-1 AWS resource management to rapid application deployment tools.",
+        "skillset": {
+          "technical": [
+            "AWS Cloud",
+            "e-commerce Platform",
+            "Payment Gateway Integration",
+            "API Development",
+            "Healthcare Analytics",
+            "Application Development",
+            "Bundle Management",
+            "Subscription Management"
+          ],
+          "functional": [
+            "Business Strategy",
+            "Cost Optimization",
+            "Platform Development",
+            "Healthcare Domain",
+            "Resource Management"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Healthcare e-commerce Platform",
+          "description": "Built enterprise ecommerce platform for healthcare/life sciences — from 0-to-1 AWS resource management to rapid application deployment tools.",
+          "links": [
+            {
+              "label": "Product Page",
+              "url": "https://shopcpr.heart.org/"
+            }
+          ],
+          "impact": [
+            "Bundle products and subscriptions for 100+ healthcare/life sciences customers",
+            "Managed AWS resources and costs for scalable e-commerce platform",
+            "Expanded platform capabilities with custom application development tools",
+            "Enabled rapid deployment of new features and integrations for healthcare clients"
+          ]
+        },
+        {
+          "title": "Athena Billing System",
+           "description": "Implemented AWS Athena for medical billing and patient management online platform.",
+          "impact": [
+            "Manage historical billing data efficiently",
+            "Enabled Report generation self service for customers and internal teams",
+            "Localisation support for customers "
+          ]
+        }
+    
+    ]
+  },
+
+  {
+    "id": "LG",
+    "type": "professional",
+    "rank": 4,
+    "name": "LG Electronics",
+    "companyUrl": "https://www.lg.com",
+    "companyDescription": "Leading provider of Global consumer electronics, home appliances, and mobile communications",
+    "tags": [
+      "device integration",
+      "EHR",
+      "compliance",
+      "IoT"
+    ],
+    "branding": {
+      "logos": {
+        "white": "images/company-logos/LG-logo.jpg"
+      },
+      "colors": {
+        "primary": "#000000"
+      }
+    },
+    "role": {
+      "title": "Research Analyst",
+      "level": "Junior"
+    },
+    "overview": {
+      "description": "Junior Embedded research Analyst for Broad Band TV application on localisation and application development.",
+      "skillset": {
+        "technical": [
+          "Memory Leakage",
+          "Data Exchange",
+          "Compliance",
+          "Remote Access",
+          "Device Integration"
+        ],
+        "functional": [
+          "Product Strategy",
+          "Harware Testing",
+          "System Integration",
+          "Quality assurance",
+          "Remote Operations"
+        ]
+      }
+    },
+    "achievements": [
+      {
+        "title": "Broadband TV Application",
+        "description": "Research analyst for Broadband TV application on localisation and application development. Led device integration with TV board testing for memory leakage.",
+        "links": [
+          {
+            "label": "null",
+            "url": "null"
+          }
+        ],
+        "impact": [
+          "Linked TV board with external devices for data exchange and remote access",
+          "Evaluate broadband TV solutions, middleware, and integration with LG’s smart TVs."
+          
+        ]
+      }
+      
+    ]
+  },
+  {
+    "id": "cts",
+    "type": "professional",
+    "rank": 5,
+    "name": "Cognizant Technology Solutions",
+    "companyUrl": "https://www.cognizant.com",
+    "companyDescription": "Global leader in IT services and digital solutions",
+    "tags": [
+      "cloud",
+      "Retail",
+      "Mainframe",
+      "JCL",
+      "COBOL"
+    ],
+    "branding": {
+      "logos": {
+        "white": "images/company-logos/cts-logo.png"
+      },
+      "colors": {
+        "primary": "#0080c5"
+      }
+    },
+    "role": {
+      "title": "Programmer Analyst",
+      "level": "Fresher"
+    },
+    "overview": {
+      "description": "Newbie to IT industry.Worked are a support analyst for US based retail stores,managing the seasonal sales spike and ensuring smooth operations",
+      "skillset": {
+        "technical": [
+          "UI Development",
+          "P2P Automation",
+          "Enterprise Systems",
+          "Documentation and Training",
+          "System Architecture"
+        ],
+        "functional": [
+          "Development",
+          "Customer Support",
+          "Process Optimization",
+          "Cross-Functional Collaboration",
+          "Operational Efficiency",
+          "Technical Training"
+        ]
+      }   
+
+    },
+  "achievements": [
+      {
+        "title": "Project Nalanda-Internal Course for Retail vertical",
+        "description": "Content Managment and Learning Management System (LMS) for internal training.",
+        "links": [
+          {
+            "label": "null",
+            "url": "null"
+          }
+        ],
+        "impact": [
+          "Frictionaless learning experience for retail employees with comprehensive training content and resources",
+          "Improved employee performance and customer service through targeted training programs"
+          
+        ] 
+      }
+  ]
+},
+  {
+    "id": "Middlesex University",
+    "type": "personal",
+    "rank": 6,
+    "name": "Middlesex University",
+    "companyUrl": "https://www.mdx.com",
+    "companyDescription": "A leading UK university known for its research and innovation across various disciplines,located in northwest of London",
+    "tags": [
+      "Research",
+      "Product Strategy",
+      "PRINCE2"
+      
+    ],
+    "branding": {
+      "logos": {
+        "white": "images/company-logos/mdx-logo.jpg"
+      },
+      "colors": {
+        "primary": "#0070F2"
+      }
+    },
+    "role": {
+      "title": "Post Graduate assistant",
+      "level": "Intern"
+    },
+    "overview": {
+      "description": "Big Data to Optimize product strategy in Electrnoic Industry.",
+      "skillset": {
+        "technical": [
+          "Research,market study,industry analysis,experts survey,conceptualization,report writing"
+        ],
+        "functional": [
+          "Framework Development",
+          "User Adoption",
+          "Documentation"
+        ]
+      }
+    },
+    "achievements": [
+      {
+        "title": "Research Paper Publication",
+        "description": "Conceptualized, built, and launched a new support portal product streamlining support requests from 5000+ users",
+        "links": [
+          {
+            "label": "Big Data to Optimize Product Strategy in Electronics Industry",
+            "url": "https://www.worldcomp-proceedings.com/proc/p2016/ABD6156.pdf"
+          }
+        ],
+        "impact": [
+          "Published a research paper on big data to Optimize Product Strategy in the electronics industry",
+          "Conducted market research and expert surveys to identify key trends and challenges in the electronics industry"
+        ]
+      }
+      
+    ]
+  }
+  ]
 }

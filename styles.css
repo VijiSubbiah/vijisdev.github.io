@@ -358,21 +358,45 @@ header {
     outline: none;
 }
 
-/* Oracle and Couchbase logos need larger scaling */
+
 .logo-bar-item[title="Honeywell"] img {
     transform: scale(1.25);
 }
 
 .logo-bar-item[title="Honeywell"]:hover img {
-    transform: scale(2.3);
+    transform: scale(1.6);
 }
 
-.logo-bar-item[title="Couchbase"] img {
+.logo-bar-item[title="RSA"] img {
     transform: scale(1.25);
 }
 
-.logo-bar-item[title="Couchbase"]:hover img {
+.logo-bar-item[title="RSA"]:hover img {
+    transform: scale(1.6);
+}
+
+.logo-bar-item[title="impelsys"] img {
+    transform: scale(1.25);
+}
+
+.logo-bar-item[title="impelsys"]:hover img {
+    transform: scale(1.6);
+}
+
+.logo-bar-item[title="LG"] img {
+    transform: scale(1.1);
+}
+
+.logo-bar-item[title="LG"]:hover img {
     transform: scale(1.3);
+}
+
+.logo-bar-item[title="cts"] img {
+    transform: scale(1.25);
+}
+
+.logo-bar-item[title="cts"]:hover img {
+    transform: scale(2.3);
 }
 
 @media (max-width: 500px) {
