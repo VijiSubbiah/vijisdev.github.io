@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prpmdev.github.io/prashant-rana/sitemap.xml
+Sitemap: https://vijisdev.github.io/vijisubbiah/sitemap.xml
