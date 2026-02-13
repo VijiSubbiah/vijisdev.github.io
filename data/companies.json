@@ -2,13 +2,13 @@
     {
         "id": "honeywell",
         "name": "Honeywell",
-        "logo": "images/company-logos/Honeywell-logo.png",
+        "logo": "images/company-logos/Honeywell-Logo.png",
         "color": "#FF6F00"
     },
     {
         "id": "RSA",
         "name": "RSA",
-        "logo": "images/company-logos/DELL-RSA-Logo.png",
+        "logo": "images/company-logos/DELL-RSA-logo.png",
         "color": "#C74634"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": "Lg",
         "name": "LG",
-        "logo": "images/company-logos/LG-logo.png",
+        "logo": "images/company-logos/LG-Logo.png",
         "color": "#000000"
     },
     {

@@ -14,16 +14,16 @@
       "companyDescription": "A multi national Conglomerate",
       "tags": [
         "AI/ML",
-         "0-to-1",  
-         "Digitization",
+        "0-to-1",
+        "Digitization",
         "Data-driven insights"
-                      ],
+      ],
       "branding": {
         "logos": {
-          "white": "images/company-logos/honeywell-logo.png"
+          "white": "images/company-logos/Honeywell-logo.png"
         },
         "colors": {
-          "primary": "#ee3124"
+          "primary": "#b2beb5"
         }
       },
       "role": {
@@ -120,7 +120,7 @@
           "white": "images/company-logos/DELL-RSA-Logo.png"
         },
         "colors": {
-          "primary": "#C74634"
+          "primary": "#778899"
         }
       },
       "role": {
@@ -177,9 +177,7 @@
             "Improved customer experience with frictionless authentication options"
           ]
         },
-      
-    
-         {
+        {
           "title": "CRE Risk Engine Optimization",
           "description": "Delivered operational efficiency, optimzation of risk scoring by improving rules and policies for fraud detection and prevention.",
           "links": [
@@ -187,7 +185,6 @@
               "label": "Product Page",
               "url": "https://www.outseer.com/technology/outseer-risk-engine"
             }
-           
           ],
           "impact": [
             "Rules and policies based on voice of Customers and data insights to optimize risk scoring",
@@ -195,10 +192,8 @@
             "Delivered measurable annual savings through operational efficiency"
           ]
         }
-     
-  ]
-},
-    
+      ]
+    },
     {
       "id": "impelsys",
       "type": "professional",
@@ -220,7 +215,7 @@
           "white": "images/company-logos/impelsys-logo.png"
         },
         "colors": {
-          "primary": "#3781C2"
+          "primary": "#b2beb5"
         }
       },
       "role": {
@@ -268,200 +263,211 @@
         },
         {
           "title": "Athena Billing System",
-           "description": "Implemented AWS Athena for medical billing and patient management online platform.",
+          "description": "Implemented AWS Athena for medical billing and patient management online platform.",
           "impact": [
             "Manage historical billing data efficiently",
             "Enabled Report generation self service for customers and internal teams",
             "Localisation support for customers "
           ]
         }
-    
-    ]
-  },
-
-  {
-    "id": "LG",
-    "type": "professional",
-    "rank": 4,
-    "name": "LG Electronics",
-    "companyUrl": "https://www.lg.com",
-    "companyDescription": "Leading provider of Global consumer electronics, home appliances, and mobile communications",
-    "tags": [
-      "BBTV",
-      "Embedded Systems",
-      "Localisation",
-      "IoT"
-    ],
-    "branding": {
-      "logos": {
-        "white": "images/company-logos/LG-logo.png"
+      ]
+    },
+    {
+      "id": "LG",
+      "type": "professional",
+      "rank": 4,
+      "name": "LG Electronics",
+      "companyUrl": "https://www.lg.com",
+      "companyDescription": "Leading provider of Global consumer electronics, home appliances, and mobile communications",
+      "tags": [
+        "BBTV",
+        "Embedded Systems",
+        "Localisation",
+        "IoT"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/company-logos/LG-logo.png"
+        },
+        "colors": {
+          "primary": "#b2beb5 "
+        }
       },
-      "colors": {
-        "primary": "#990033"
-      }
-    },
-    "role": {
-      "title": "Research Analyst",
-      "level": "Junior"
-    },
-    "overview": {
-      "description": "Junior Embedded research Analyst for Broad Band TV application on localisation and application development.",
-      "skillset": {
-        "technical": [
-          "Memory Leakage",
-          "Data Exchange",
-          "Compliance",
-          "Remote Access",
-          "Device Integration"
-        ],
-        "functional": [
-          "Product Strategy",
-          "Harware Testing",
-          "System Integration",
-          "Quality assurance",
-          "Remote Operations"
-        ]
-      }
-    },
-    "achievements": [
-      {
-        "title": "Broadband TV Application",
-        "description": "Research analyst for Broadband TV application on localisation and application development. Led device integration with TV board testing for memory leakage.",
-        "links": [
-          {
-            "label": "null",
-            "url": "null"
-          }
-        ],
-        "impact": [
-          "Linked TV board with external devices for data exchange and remote access",
-          "Evaluate broadband TV solutions, middleware, and integration with LG’s smart TVs."
-          
-        ]
-      }
-      
-    ]
-  },
-  {
-    "id": "cts",
-    "type": "professional",
-    "rank": 5,
-    "name": "Cognizant Technology Solutions",
-    "companyUrl": "https://www.cognizant.com",
-    "companyDescription": "Global leader in IT services and digital solutions",
-    "tags": [
-      "cloud",
-      "Retail",
-      "Mainframe",
-      "JCL",
-      "COBOL"
-    ],
-    "branding": {
-      "logos": {
-        "white": "images/company-logos/cts-logo.png"
+      "role": {
+        "title": "Research Analyst",
+        "level": "Junior"
       },
-      "colors": {
-        "primary": "#1E728C"
-      }
-    },
-    "role": {
-      "title": "Programmer Analyst",
-      "level": "Fresher"
-    },
-    "overview": {
-      "description": "Newbie to IT industry.Worked are a support analyst for US based retail stores,managing the seasonal sales spike and ensuring smooth operations",
-      "skillset": {
-        "technical": [
-          "UI Development",
-          "P2P Automation",
-          "Enterprise Systems",
-          "Documentation and Training",
-          "System Architecture"
-        ],
-        "functional": [
-          "Development",
-          "Customer Support",
-          "Process Optimization",
-          "Cross-Functional Collaboration",
-          "Operational Efficiency",
-          "Technical Training"
-        ]
-      }   
-
-    },
-  "achievements": [
-      {
-        "title": "Project Nalanda-Internal Course for Retail vertical",
-        "description": "Content Managment and Learning Management System (LMS) for internal training.",
-        "links": [
-          {
-            "label": "null",
-            "url": "null"
-          }
-        ],
-        "impact": [
-          "Frictionaless learning experience for retail employees with comprehensive training content and resources",
-          "Improved employee performance and customer service through targeted training programs"
-          
-        ] 
-      }
-  ]
-},
-  {
-    "id": "Middlesex University",
-    "type": "personal",
-    "rank": 6,
-    "name": "Middlesex University",
-    "companyUrl": "https://www.mdx.com",
-    "companyDescription": "A leading UK university known for its research and innovation across various disciplines,located in northwest of London",
-    "tags": [
-      "Research",
-      "Product Strategy",
-      "PRINCE2"
-      
-    ],
-    "branding": {
-      "logos": {
-        "white": "images/company-logos/mdx-logo.png"
+      "overview": {
+        "description": "Junior Embedded research Analyst for Broad Band TV application on localisation and application development.",
+        "skillset": {
+          "technical": [
+            "Memory Leakage",
+            "Data Exchange",
+            "Compliance",
+            "Remote Access",
+            "Device Integration"
+          ],
+          "functional": [
+            "Product Strategy",
+            "Harware Testing",
+            "System Integration",
+            "Quality assurance",
+            "Remote Operations"
+          ]
+        }
       },
-      "colors": {
-        "primary": "#0070F2"
-      }
+      "achievements": [
+        {
+          "title": "Broadband TV Application",
+          "description": "Research analyst for Broadband TV application on localisation and application development. Led device integration with TV board testing for memory leakage.",
+          "links": [
+            {
+              "label": "",
+              "url": ""
+            }
+          ],
+          "impact": [
+            "Linked TV board with external devices for data exchange and remote access",
+            "Evaluate broadband TV solutions, middleware, and integration with LG’s smart TVs."
+          ]
+        }
+      ]
     },
-    "role": {
-      "title": "Post Graduate assistant",
-      "level": "Intern"
+    {
+      "id": "cts",
+      "type": "professional",
+      "rank": 5,
+      "name": "Cognizant Technology Solutions",
+      "companyUrl": "https://www.cognizant.com",
+      "companyDescription": "Global leader in IT services and digital solutions",
+      "tags": [
+        "cloud",
+        "Retail",
+        "Mainframe",
+        "JCL",
+        "COBOL"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/company-logos/cts-logo.png"
+        },
+        "colors": {
+          "primary": "#778899"
+        }
+      },
+      "role": {
+        "title": "Programmer Analyst",
+        "level": "Fresher"
+      },
+      "overview": {
+        "description": "Newbie to IT industry.Worked are a support analyst for US based retail stores,managing the seasonal sales spike and ensuring smooth operations",
+        "skillset": {
+          "technical": [
+            "UI Development",
+            "P2P Automation",
+            "Enterprise Systems",
+            "Documentation and Training",
+            "System Architecture"
+          ],
+          "functional": [
+            "Development",
+            "Customer Support",
+            "Process Optimization",
+            "Cross-Functional Collaboration",
+            "Operational Efficiency",
+            "Technical Training"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Project Nalanda-Internal Course for Retail vertical",
+          "description": "Content Managment and Learning Management System (LMS) for internal training.",
+          "links": [
+            {
+              "label": "",
+              "url": "No public link available"
+            }
+          ],
+          "impact": [
+            "Frictionaless learning experience for retail employees with comprehensive training content and resources",
+            "Improved employee performance and customer service through targeted training programs"
+          ]
+        },
+        {
+          "title": "Sears, Radioshack, Walmart- Billing and Inventory Support",
+          "description": "Supported US-based retail stores during peak sales periods, ensuring smooth operations and customer satisfaction.",
+          "links": [
+            {
+              "label": "",
+              "url": "No public link available"
+            }
+          ],
+          "impact": [
+            "Frictionless support experience for retail employees with comprehensive billing and inventory management tools",
+            "Improved operational efficiency and customer satisfaction during peak sales periods"
+          ]
+        }
+      ]
     },
-    "overview": {
-      "description": "Big Data to Optimize product strategy in Electrnoic Industry.",
-      "skillset": {
-        "technical": [
-          "Research,market study,industry analysis,experts survey,conceptualization,report writing"
-        ],
-        "functional": [
-          "Framework Development",
-          "User Adoption",
-          "Documentation"
-        ]
-      }
-    },
-    "achievements": [
-      {
-        "title": "Research Paper Publication",
-        "description": "Conceptualized, built, and launched a new support portal product streamlining support requests from 5000+ users",
-        "links": [
-          {
-            "label": "Big Data to Optimize Product Strategy in Electronics Industry",
-            "url": "https://www.worldcomp-proceedings.com/proc/p2016/ABD6156.pdf"
-          }
-        ],
-        "impact": [
-          "Published a research paper on big data to Optimize Product Strategy in the electronics industry",
-          "Conducted market research and expert surveys to identify key trends and challenges in the electronics industry"
-        ]
-      }
-      
-    ]
-  }
+    {
+      "id": "Middlesex University",
+      "type": "personal",
+      "rank": 6,
+      "name": "Middlesex University",
+      "companyUrl": "https://www.mdx.com",
+      "companyDescription": "A leading UK university known for its research and innovation across various disciplines,located in northwest of London",
+      "tags": [
+        "Research",
+        "Product Strategy",
+        "PRINCE2"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/company-logos/mdx-logo.png"
+        },
+        "colors": {
+          "primary": "#b2beb5 "
+        }
+      },
+      "role": {
+        "title": "Post Graduate assistant",
+        "level": "Intern"
+      },
+      "overview": {
+        "description": "Big Data to Optimize product strategy in Electrnoic Industry.",
+        "skillset": {
+          "technical": [
+            "Research",
+            "Market study",
+            "Industry analysis",
+            "Experts survey",
+            "Conceptualization",
+            "Report writing"
+          ],
+          "functional": [
+            "Framework Development",
+            "User Adoption",
+            "Documentation"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Research on Product Strategy in Electronics Industry",
+          "description": "Why some product fail,Why some product stay in the Competitive advantage?",
+          "links": [
+            {
+              "label": "Big Data to Optimize Product Strategy in Electronics Industry",
+              "url": "https://www.worldcomp-proceedings.com/proc/p2016/ABD6156.pdf"
+            }
+          ],
+          "impact": [
+            "Published a research paper on Big Data to Optimize Product Strategy in the electronics industry",
+            "Conducted market research and expert surveys to identify key trends and challenges in the electronics industry"
+          ]
+        }
+      ]
+    }
   ]
 }

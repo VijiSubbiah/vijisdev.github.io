@@ -18,7 +18,7 @@ main {
 
 /* Header */
 header {
-    background-color: #fff;
+    background-color: #91a3b0 ;
 }
 
 .header-content {
@@ -48,7 +48,7 @@ header {
 .navigation a {
     text-decoration: none;
     color: #333;
-    text-transform: lowercase;
+    text-transform: case-sensitive;
     transition: color 0.2s ease;
 }
 
@@ -84,7 +84,7 @@ header {
 }
 
 .hero-content h1 {
-    font-size: 2em;
+    font-size: 1.5em;
     margin-top: 0;
     margin-bottom: 10px;
 }
@@ -164,15 +164,15 @@ header {
     object-fit: contain;
 }
 
-/* education Section */
-.education {
+/* work Section */
+.work {
     margin: 20px 0;
     text-align: center;
     padding: 0;
     position: relative;
 }
 
-.education h2 {
+.work h2 {
     font-size: 1.4em;
     margin-bottom: 8px;
     color: #333;
@@ -423,7 +423,7 @@ header {
 footer {
     text-align: center;
     padding: 20px;
-    font-size: 1.0em;
+    font-size: 0.8em;
     background-color: #f0f0f0;
 }
 

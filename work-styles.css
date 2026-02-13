@@ -127,15 +127,15 @@
 }
 
 .logo-section img {
-    max-width: 95%;
+    max-width: 75%;
     max-height: 95%;
     object-fit: contain;
     transition: transform 0.2s ease;
 }
 
-/* Couchbase logo is wide - scale down */
-#couchbase .logo-section img {
-    max-width: 70%;
+/* Honeywell logo is wide - scale down */
+#honeywell .logo-section img {
+    max-width: 50%;
 }
 
 .company-tile:hover .logo-section img {
