@@ -1,33 +1,130 @@
-[
+{
+  "config": {
+    "imagePaths": {
+      "logos": "images/education-logos"
+    }
+  },
+  "items": [
     {
-       "branding": {
-      "logos": {
-        "white": "images/company-logos/mdx-logo.jpg"
+      "id": "IIMK",
+      "type": "professional",
+      "rank": 1,
+      "name": "Indian Institute of Management Kozhikode",
+      "schoolUrl": "https://www.iimk.ac.in",
+      "CourseDescription": "A multi national Conglomerate",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning frameworks",
+        "Data Science",
+        "Responsive AI"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/education-logos/iimk-logo.jpg"
+        },
+        "colors": {
+          "primary": "#b2beb5"
+        }
       },
-      "colors": {
-        "primary": "#0070F2"
-      }
+      "role": {
+        "title": "Professional Certification in AI and Machine Learning"
+        
+      },
+      "overview": {
+        "description": "Comprehensive program covering AI/ML concepts, frameworks, and applications. Focused on practical skills for real-world AI solutions.",
+        "skillset": {
+          "technical": [
+            "AI/ML Concepts",
+            "Frameworks (TensorFlow, PyTorch)",
+            "Data Science",
+            "Model Deployment",
+            "Ethical AI"
+          ],
+          "functional": [
+            "Problem Solving",
+            "Project Management",
+            "Cross-Functional Collaboration",
+            "AI Strategy",
+            "Continuous Learning"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Capstone Project: Responsive AI for Smart Buildings",
+          "links": [
+            {
+              "label": "",
+              "url": ""
+            }
+            
+          ],
+          "description": "To wite"
+          
+        }
+        
+      ]
+      
+    },
+           
+    {
+      "id": "Middlesex University",
+      "type": "personal",
+      "rank": 2,
+      "name": "Middlesex University",
+      "schoolUrl": "https://www.mdx.com",
+      "schoolDescription": "A leading UK university known for its research and innovation across various disciplines,located in northwest of London",
+      "tags": [
+        "Research",
+        "Product Strategy",
+        "PRINCE2"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/company-logos/mdx-logo.png"
+        },
+        "colors": {
+          "primary": "#b2beb5 "
+        }
+      },
+      "role": {
+        "title": "Post Graduate assistant",
+        "level": "Intern"
+      },
+      "overview": {
+        "description": "Big Data to Optimize product strategy in Electrnoic Industry.",
+        "skillset": {
+          "technical": [
+            "Research",
+            "Market study",
+            "Industry analysis",
+            "Experts survey",
+            "Conceptualization",
+            "Report writing"
+          ],
+          "functional": [
+            "Framework Development",
+            "User Adoption",
+            "Documentation"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Research on Product Strategy in Electronics Industry",
+          "description": "Why some product fail,Why some product stay in the Competitive advantage?",
+          "links": [
+            {
+              "label": "Big Data to Optimize Product Strategy in Electronics Industry",
+              "url": "https://www.worldcomp-proceedings.com/proc/p2016/ABD6156.pdf"
+            }
+          ],
+          "impact": [
+            "Published a research paper on Big Data to Optimize Product Strategy in the electronics industry",
+            "Conducted market research and expert surveys to identify key trends and challenges in the electronics industry"
+          ]
+        }
+      ]
     }
-    },
-    {
-        "Schoolname": "Indian Institute of Management, Kozhikode",
-        "degree": "Professional Certification",
-        "fieldOfStudy": "Data Science and Aritificial Intelligence for Managers",
-        "description": "Acquired data science and artificial intelligence concepts ,Machine learning frameworksand their applications in business management."
-    },
-    
-    {
-       "Schoolimage": "https://vijisubbiah.github.io/vijisubbiah/images/education/mdx-logo.jpg",
-        "Schoolname": "Middlesex University, London",
-        "degree": "Master Of Science",
-        "fieldOfStudy": "Business Administration and Management",
-        "description": "Specialized in Business Information Systems Management, with a focus on strategic Product management, Intellectual Properties, Program management,Knowledge management and organizational behavior."
-    },
-    {
-       "Schoolimage": "https://vijisubbiah.github.io/vijisubbiah/images/education/au-logo.jpg",
-        "Schoolname": "Anna University, Chennai",
-        "degree": "Bachelor of Engineering ",
-        "fieldOfStudy": "Electronics and Communication Engineering",
-        "description": "Developed a strong foundation in programming,engineering, algorithms, data structures, and software development. Engaged in various projects and internships that enhanced practical skills and industry knowledge."
-    }
-]
+  ]
+}
