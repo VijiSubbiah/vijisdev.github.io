@@ -11,7 +11,7 @@
       "rank": 1,
       "name": "Indian Institute of Management Kozhikode",
       "schoolUrl": "https://www.iimk.ac.in",
-      "CourseDescription": "A multi national Conglomerate",
+      "CourseDescription": "A most renowned and competitive B-school in India, offering a comprehensive curriculum in management education with a focus on leadership, innovation, and entrepreneurship.",
       "tags": [
         "Artificial Intelligence",
         "Machine Learning frameworks",
@@ -20,7 +20,7 @@
       ],
       "branding": {
         "logos": {
-          "white": "images/education-logos/iimk-logo.jpg"
+          "white": "images/education-logos/iimk-logo.png"
         },
         "colors": {
           "primary": "#b2beb5"
@@ -66,10 +66,10 @@
       ]
       
     },
-           
+          
     {
       "id": "Middlesex University",
-      "type": "personal",
+      "type": "professional",
       "rank": 2,
       "name": "Middlesex University",
       "schoolUrl": "https://www.mdx.com",
@@ -84,15 +84,261 @@
           "white": "images/company-logos/mdx-logo.png"
         },
         "colors": {
+          "primary": "#778899"
+        }
+      },
+      "role": {
+        "title": "Master's in Business Information Systems Management",
+        "level": "Post Graduate"
+      },
+      "overview": {
+        "description": "A postgraduate program in Business Information Systems Management that focuses on integrating information technology with business strategy,Intellectual property rights, Product Management practices.",
+        "skillset": {
+          "technical": [
+            "Research",
+            "Market study",
+            "Industry analysis",
+            "Experts survey",
+            "Conceptualization",
+            "Report writing"
+          ],
+          "functional": [
+            "Framework Development",
+            "User Adoption",
+            "Documentation"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Research on Product Strategy in Electronics Industry",
+          "description": "Why some product fail,Why some product stay in the Competitive advantage?",
+          "links": [
+            {
+              "label": "Big Data to Optimize Product Strategy in Electronics Industry",
+              "url": "https://www.worldcomp-proceedings.com/proc/p2016/ABD6156.pdf"
+            }
+          ],
+          "impact": [
+            "Published a research paper on Big Data to Optimize Product Strategy in the electronics industry",
+            "Conducted market research and expert surveys to identify key trends and challenges in the electronics industry"
+          ]
+        }
+      ]
+    },
+     {
+      "id": "Anna University",
+      "type": "professional",
+      "rank": 3,
+      "name": "Anna University",
+      "schoolUrl": "https://www.annauniv.edu",
+      "schoolDescription": "A premier public university in Tamil Nadu, India, known for its excellence in engineering and technology education.",
+
+      "tags": [
+        "Electronics and Communication Engineering",
+        "Microprocessors",
+        "Programming Data Structures"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/education-logos/au-logo.png"
+        },
+        "colors": {
           "primary": "#b2beb5 "
         }
       },
       "role": {
-        "title": "Post Graduate assistant",
-        "level": "Intern"
+        "title": "Bachelor's Degree in Electronics and Communication Engineering",
+        "level": "Undergraduate"
       },
       "overview": {
-        "description": "Big Data to Optimize product strategy in Electrnoic Industry.",
+        "description": "A bachelor's degree in Electronics and Communication Engineering that focuses on the design, development, and application of electronic systems and communication technologies.",
+        "skillset": {
+          "technical": [
+            "mechanics",
+            "computer architecture",
+            "Industry analysis",
+            "communication systems",
+            "PDS (Programming Data Structures)",
+            "Report writing"
+          ],
+          "functional": [
+            "Framework Development",
+            "User Adoption",
+            "Documentation"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Research on Product Strategy in Electronics Industry",
+          "description": "Why some product fail,Why some product stay in the Competitive advantage?",
+          "links": [
+            {
+              "label": "Big Data to Optimize Product Strategy in Electronics Industry",
+              "url": "https://www.worldcomp-proceedings.com/proc/p2016/ABD6156.pdf"
+            }
+          ],
+          "impact": [
+            "Published a research paper on Big Data to Optimize Product Strategy in the electronics industry",
+            "Conducted market research and expert surveys to identify key trends and challenges in the electronics industry"
+          ]
+        }
+      ]
+    },
+     {
+      "id": "SAFe 6.0 Agilist",
+      "type": "personal",
+      "rank": 1,
+      "name": "SAFe 6.0 Agilist",
+      "schoolUrl": "https://www.scaledagile.com",
+      "schoolDescription": "A certification program in SAFe 6.0 that focuses on Program Manager practices for scaling agile across organizations.",
+      "tags": [
+        "Enterprise Agile Frameworks",
+        "Lean-Agile Principles",
+        "Strategic Planning",
+        "Agile Leadership",
+               "SAFe Implementation"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/education-logos/safe-logo.png"
+        },
+        "colors": {
+          "primary": "#b2beb5"
+        }
+      },
+      "role": {
+        "title": "SAFe 6.0 Product Manager",
+        "level": "Certification"
+      },
+      "overview": {
+        "description": "A certification program in SAFe 6.0 that focuses on Product Manager practices for scaling agile across organizations.",
+        "skillset": {
+          "technical": [
+            "Product Management",
+            "Market study",
+            "Industry analysis",
+            "Startegic Planning",
+            "Enterprise Agile Frameworks",
+            "Business Ownership"
+          ],
+          "functional": [
+            "Framework Development",
+            "User Adoption",
+            "Documentation"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Research on Product Strategy in Electronics Industry",
+          "description": "Why some product fail,Why some product stay in the Competitive advantage?",
+          "links": [
+            {
+              "label": "Big Data to Optimize Product Strategy in Electronics Industry",
+              "url": "https://www.worldcomp-proceedings.com/proc/p2016/ABD6156.pdf"
+            }
+          ],
+          "impact": [
+            "Published a research paper on Big Data to Optimize Product Strategy in the electronics industry",
+            "Conducted market research and expert surveys to identify key trends and challenges in the electronics industry"
+          ]
+        }
+      ]
+    },  {
+      "id": "Software Security Associate",
+      "type": "personal",
+      "rank": 2,
+      "name": "Security Compass",
+      "schoolUrl": "https://www.securitycompass.com",
+      "schoolDescription": "A certification program in Software Security that focuses on understanding and implementing secure software development practices.",
+
+      "tags": [
+        "OWASP",
+        "Secure Software Development",
+        "Application Security",
+        "Threat Modeling",
+        "Vulnerability Assessment", 
+        "Secure Coding Practices"
+        
+      ],
+       
+      "branding": {
+        "logos": {
+          "white": "images/education-logos/security-logo.png"
+        },
+        "colors": {
+          "primary": "#778899"
+        }
+      },
+      "role": {
+        "title": "Software Security Associate",
+        "level": "Certification"
+      },
+      "overview": {
+        "description": "A certification program in Software Security that focuses on understanding and implementing secure software development practices.",
+        "skillset": {
+          "technical": [
+            "Research",
+            "Market study",
+            "Industry analysis",
+            "Experts survey",
+            "Conceptualization",
+            "Report writing"
+          ],
+          "functional": [
+            "Framework Development",
+            "User Adoption",
+            "Documentation"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Research on Product Strategy in Electronics Industry",
+          "description": "Why some product fail,Why some product stay in the Competitive advantage?",
+          "links": [
+            {
+              "label": "Big Data to Optimize Product Strategy in Electronics Industry",
+              "url": "https://www.worldcomp-proceedings.com/proc/p2016/ABD6156.pdf"
+            }
+          ],
+          "impact": [
+            "Published a research paper on Big Data to Optimize Product Strategy in the electronics industry",
+            "Conducted market research and expert surveys to identify key trends and challenges in the electronics industry"
+          ]
+        }
+      ]
+    },
+     {
+      "id": "AZ",
+      "type": "personal",
+      "rank": 3,
+      "name": "Microsoft AZ-900",
+      "schoolUrl": "https://learn.microsoft.com/en-us/certifications/microsoft-azure-fundamentals/",
+      "schoolDescription": "A certification program in Microsoft Azure fundamentals that focuses on understanding core Azure services, security, and compliance.",
+
+      "tags": [
+        "Azure Fundamentals",
+        "Cloud Computing",
+        "Security and Compliance"
+      ],
+       
+      "branding": {
+        "logos": {
+          "white": "images/education-logos/az-logo.png"
+        },
+        "colors": {
+          "primary": "#b2beb5 "
+        }
+      },
+      "role": {
+        "title": "Microsoft AZ-900 Certified",
+        "level": "Certification"
+      },
+      "overview": {
+        "description": "A certification program in Microsoft Azure fundamentals that focuses on understanding core Azure services, security, and compliance.",
         "skillset": {
           "technical": [
             "Research",

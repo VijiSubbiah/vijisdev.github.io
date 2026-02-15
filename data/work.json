@@ -117,7 +117,7 @@
       ],
       "branding": {
         "logos": {
-          "white": "images/company-logos/DELL-RSA-Logo.png"
+          "white": "images/company-logos/RSA-Logo.png"
         },
         "colors": {
           "primary": "#778899"
@@ -465,6 +465,131 @@
           "impact": [
             "Published a research paper on Big Data to Optimize Product Strategy in the electronics industry",
             "Conducted market research and expert surveys to identify key trends and challenges in the electronics industry"
+          ]
+        }
+      ]
+    },
+     {
+      "id": "IIMK",
+      "type": "personal",
+      "rank": 7,
+      "name": "Indian Institute of Management Kozhikode",
+      "companyUrl": "https://www.iimk.ac.in",
+      "companyDescription": "A premier Indian Institute of Management located in Kozhikode, known for its academic excellence and research contributions.",
+
+      "tags": [
+        "Zero-shot prompting",
+        "One-shot prompting",
+        "Few-shot prompting",
+        "Prompt Optimization",
+        "Prompt Debugging",
+        "Prompt Strategies"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/company-logos/iimk-logo.png"
+        },
+        "colors": {
+          "primary": "#b2beb5 "
+        }
+      },
+      "role": {
+        "title": "AI/ML Practioner",
+        "level": "Intern"
+      },
+      "overview": {
+        "description": "Capstone Project on Prompt Engineering for Large Language Models. Explored various prompting techniques to optimize LLM performance across different tasks and domains.",
+        "skillset": {
+          "technical": [
+            "Research",
+            "Market study",
+            "Industry analysis",
+            "Experts survey",
+            "Conceptualization",
+            "Report writing"
+          ],
+          "functional": [
+            "Framework Development",
+            "User Adoption",
+            "Documentation"
+          ]
+        }
+
+        },  
+        "achievements": [
+          {
+            "title": "Prompt Engineering for Large Language Models",
+            "description": "Explored various prompting techniques to optimize LLM performance across different tasks and domains.",
+            "links": [
+              {
+                "label": "",
+                "url": ""
+              }
+            ],
+            "impact": [
+              "Conducted experiments with zero-shot, one-shot, and few-shot prompting techniques to evaluate their effectiveness across various tasks"
+                         ]
+                         
+        }
+        ]
+      },
+    
+     {
+      "id": "IIM Kozhikode",
+      "type": "personal",
+      "rank": 8,
+      "name": "Indian Institute of Management Kozhikode",
+      "companyUrl": "https://www.iimk.ac.in",
+      "companyDescription": "A premier Indian Institute of Management located in Kozhikode, known for its academic excellence and research contributions.",
+      "tags": [
+        "AI/ML",
+        "Modular AI",
+        "Competitive Landscape",
+        "SWOT analysis",
+        "Urban mobility",
+        "Autonomous Vehicles"
+      ],
+      "branding": {
+        "logos": {
+          "white": "images/company-logos/iimk-logo.png"
+        },
+        "colors": {
+          "primary": "#b2beb5 "
+        }
+      },
+      "role": {
+        "title": "AI/ML Practioner",
+        "level": "Intern"
+      },
+      "overview": {
+        "description": "Capstone Project – AI-Powered Autonomous Vehicle Business Plan. Developed a comprehensive business plan for an AI-powered autonomous vehicle startup, including market analysis, competitive landscape, and go-to-market strategy.",
+        "skillset": {
+          "technical": [
+            "Research",
+            "Market study",
+            "Industry analysis",
+            "Experts survey",
+            "Conceptualization",
+            "Report writing"
+          ],
+          "functional": [
+            "Framework Development",
+            "User Adoption",
+            "Documentation"
+          ]
+        }
+      },
+      "achievements": [
+        {
+          "title": "Capstone Project on AI-Powered Autonomous Vehicle Business Plan",
+          "description": "Developed a comprehensive business plan for an AI-powered autonomous vehicle startup, including market analysis, competitive landscape, and go-to-market strategy.",          "links": [
+            {
+              "label": "",
+              "url": ""
+            }
+          ],
+          "impact": [
+            "Carved a business plan outlining a technical solution focused on developing and deploying AI-powered autonomous vehicles, highlighting real-world applications, potential impact, and limitations. The core of the business is a modular AI platform for self-driving cars, offering enhanced safety, efficiency, and convenience in transportation. The plan addresses market analysis, technical specifications, financial projections, and risk management."
           ]
         }
       ]

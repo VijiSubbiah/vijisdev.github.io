@@ -19,11 +19,11 @@ const ErrorTypes = {
 let currentView = 'professional';
 
 // Main Initialization
-document.addEventListener('DOMContentLoaded', initializeeducation);
+document.addEventListener('DOMContentLoaded', initializeEducation);
 
-async function initializeeducation() {
+async function initializeEducation() {
     try {
-        const educationData = await fetcheducationData();
+        const educationData = await fetchEducationData();
 
         if (!educationData?.items || !Array.isArray(educationData.items)) {
             throw new Error(createErrorMessage(ErrorTypes.DATA_INVALID, 'missing items array'));
@@ -36,7 +36,7 @@ async function initializeeducation() {
         window.educationData = educationData;
 
         initializeToggle();
-        rendereducationSection(currentView);
+        renderEducationSection(currentView);
         initializeEventListeners();
 
         // Handle anchor scroll after tiles are rendered
@@ -295,7 +295,7 @@ function handleTileClick(event) {
     const itemData = window.educationData.items.find(item => item.id === itemId);
 
     if (itemData) {
-        showschoolDetails(itemData);
+        showSchoolDetails(itemData);
     } else {
         console.error(`Item data not found for ID: ${itemId}`);
     }
@@ -387,7 +387,7 @@ function handleError(message, error) {
 }
 
 function showErrorMessage(message, type = 'error') {
-    const educationGrid = document.querySelector('.Education-grid');
+    const educationGrid = document.querySelector('.education-grid');
     if (!educationGrid) return;
 
     const errorDiv = document.createElement('div');
